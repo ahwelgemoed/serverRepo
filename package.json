@@ -21,7 +21,7 @@
     "@types/sqlite3": "^3.1.6",
     "@types/ws": "^7.2.5",
     "cron": "^1.8.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0",
     "sqlite": "^4.0.11",
     "sqlite3": "^4.2.0",
